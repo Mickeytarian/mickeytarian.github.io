@@ -4,6 +4,7 @@ email: amikhitarian@albany.edu
 description: Adam is super cool
 url: mickeytarian.github.io
 github_username: mickeytarian
+color: red
 
 # Build settings
 markdown: kramdown
