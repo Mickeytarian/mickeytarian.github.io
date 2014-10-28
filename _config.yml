@@ -1,0 +1,10 @@
+# Site settings
+title: Adam's website
+email: amikhitarian@albany.edu
+description: Adam is super cool
+url: mickeytarian.github.io
+github_username: mickeytarian
+
+# Build settings
+markdown: kramdown
+permalink: pretty
